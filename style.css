@@ -1,0 +1,7 @@
+body{
+    background-color: rgba(38,52,69,255);
+}
+#canvas{
+    margin-top: 1.5%;
+    border: 3px solid rgba(158,166,178,255);
+}
